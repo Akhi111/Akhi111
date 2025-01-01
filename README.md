@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akhi111" alt="akhi111" /></a> </p>
 <img align="right" alt="Coding" width="300" src="https://github.com/Akhi111/Akhil-Portfolio/blob/main/assets/img/file.png?raw=true"/>
-- 👨‍💻 All of my projects are available at [https://akhi111.github.io/Akhil-Portfolio/](https://akhi111.github.io/Akhil-Portfolio/)
+- 👨‍💻 All of my projects are available at (https://akhi111.github.io/Akhil-Portfolio/)
 
 - 📫 How to reach me **acharekarakhil@gmail.com**
 
