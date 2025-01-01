@@ -1,6 +1,6 @@
 [![MasterHead](https://github.com/Akhi111/Akhil-Portfolio/blob/main/assets/img/Clean%20Modern%20Personal%20LinkedIn%20Banner.png?raw=true)]()
 <h1 align="center">Hi 👋, I'm Akhil Acharekar</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
+<h3 align="center">A passionate FullStack Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akhi111&label=Profile%20views&color=0e75b6&style=flat" alt="akhi111" /> </p>
 
